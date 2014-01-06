@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-feature
 title:  "A second post!"
 date:   2014-01-06 10:27:36
 categories: jekyll update
