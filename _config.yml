@@ -1,3 +1,7 @@
-name: Struntpratat
+name: Struntprat
+title: Struntprat
 markdown: redcarpet
 pygments: true
+owner:
+ twitter: tomassommar
+ email: tomas.sommar[at]gmail[dot]com
